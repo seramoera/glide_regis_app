@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "287161916870",
+    "project_id": "glide-regis-app",
+    "storage_bucket": "glide-regis-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287161916870:android:4a710f7ef8d2abfc2fa6c7",
+        "android_client_info": {
+          "package_name": "com.example.glide_regis_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZlThKEBe38-SIVnpcpnimVP5DGQ0RYoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
